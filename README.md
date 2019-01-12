@@ -1,5 +1,6 @@
 # FFmpeg-GUI
 Automaticly generate and run ffmpeg with commands.
+[Download](https://github.com/sneakyevilSK/FFmpeg-GUI/blob/master/FFmpegGUI.exe?raw=true)
 
 ![alt text](https://i.gyazo.com/cd59b9ee2eff8bee695ff0e7486ea34d.png)
 
